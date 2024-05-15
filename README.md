@@ -20,3 +20,10 @@ Dari step yang sudah saya lakukan saya sudah dapat melakukan pembuatan basisdata
 soal 3
 ![gambar](img/5.png)
 melakukan seed ke database dengan menambahkan "seed": "node -r dotnv/config ./src/seeder/seed.js"
+
+Soal 4
+![gambar](img/6.jpeg)
+Hasil dari Query, nampak berhasil dan berarti seeding telah berhasil dilakukan
+
+![gambar](img/7.png)
+query lain yang saya lakukan sama ,namun data yang ditampilkan adalah dari kolom customers.name, invoices.amount, invoices.status, dan invoices.date yang memiliki customers.name Lee Robinson.
