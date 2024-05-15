@@ -33,3 +33,8 @@ Soal 5
 jadi di percobaan kali ini saya mencoba mengisi folder atom di dalam componts dan saya mengisi komponen molecules dengan 3 file yang berbeda . setelah semua kode saya inputkan dan semua step telah dilakukan saya perlu ngepush projectnya ke git dan nanti akan otomatis kebaca di varcelnya dan berubah menjadi bentuk diatas
 
 ini merupakan link aplikasi nya: https://09-nextjs-database-rose.vercel.app/
+
+Soal 6
+![gambar](img/9.png)
+Data yang diperoleh dari revenueFetch diolah untuk ditampilkan dalam laman ReactJS, dengan dimulai dari mengekstrak data untuk sumbu X dan Y. Selanjutnya data revenue dikonversi ke format data map, dan terakhir adalah menampilkan data dari map revenue tersebut.
+
